@@ -1,1 +1,1 @@
-https://github.com/jahnad-pr/Portfolio-jahanad/blob/main/
+ https://jahnad-pr.github.io/Portfolio-jahanad/
